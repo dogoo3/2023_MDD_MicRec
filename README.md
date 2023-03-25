@@ -10,9 +10,7 @@
 3. PlayRealTimeScene : 매 프레임 시간 단위로 소리를 녹음한 뒤, 녹음된 소리를 바로바로 AudioSource를 통해 출력하는 코드
 
 Scroll View 및 Toggle에 대해서는 아래 블로그의 설명을 참고하시기 바랍니다. 
-
 Scroll View : https://kumgo1d.tistory.com/14 
-
 Toggle : https://scvtwo.tistory.com/34 \n
 
 ToggleGroup : https://undercode.tistory.com/13
