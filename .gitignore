@@ -1,0 +1,77 @@
+# =============== #
+ 
+# Unity generated #
+ 
+# =============== #
+ 
+Temp
+ 
+Obj
+ 
+UnityGenerated
+ 
+Library
+
+Temp.meta
+
+Logs
+ 
+# ===================================== #
+ 
+# Visual Studio  MonoDevelop generated #
+ 
+# ===================================== #
+ 
+ExportedObj
+ 
+*.svd
+ 
+*.userprefs
+ 
+*.csproj
+ 
+*.pidb
+ 
+*.suo
+ 
+*.sln
+ 
+*.user
+ 
+*.unityproj
+ 
+*.booproj
+
+*.apk
+
+*.mp4
+
+*.mp4.meta
+ 
+# ============ #
+ 
+# OS generated #
+ 
+# ============ #
+ 
+.DS_Store
+ 
+.DS_Store
+ 
+._
+ 
+.Spotlight-V100
+ 
+.Trashes
+ 
+Icon
+ 
+ehthumbs.db
+ 
+Thumbs.db
+ 
+GraphicsSettings.asset
+ 
+ProjectSettings.asset
+ 
+ProjectVersion.txt
